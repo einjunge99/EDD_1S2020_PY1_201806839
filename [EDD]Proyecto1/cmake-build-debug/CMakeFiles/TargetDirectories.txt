@@ -1,0 +1,3 @@
+C:/Users/Isaac Maldonado/CLionProjects/[EDD]Proyecto1/cmake-build-debug/CMakeFiles/_EDD_Proyecto1.dir
+C:/Users/Isaac Maldonado/CLionProjects/[EDD]Proyecto1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Isaac Maldonado/CLionProjects/[EDD]Proyecto1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
